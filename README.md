@@ -17,7 +17,7 @@ This QR Code Generator application is designed with a comprehensive approach to 
 
 # Technologies Used:
 
-- **Frontend:** HTML, CSS (Tailwind CSS/Bootstrap 5)
+- **Frontend:** HTML, CSS, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Other Packages:** Utilizes the latest packages available as of the project's development date.
